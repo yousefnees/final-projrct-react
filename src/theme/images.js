@@ -1,1 +1,0 @@
-export const IMDb = require('../assets/imdb.jpg') 
